@@ -1,0 +1,12 @@
+{
+  "name": "labs-stk-mock-server",
+  "version": "1.0.0",
+  "description": "Sample app mock server with nodejs to support testcontainer with golang and stackspot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
